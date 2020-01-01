@@ -28,6 +28,8 @@
     1. (전) 홍콩 과학기술대학교 컴퓨터공학과 교수 - Sung Kim
 2. 스탠포드 대학교 머신러닝 강의 ([https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning))
     1. Andrew Ng 교수 
+3. 딥러닝 논문 읽기 모임
+    1. https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWk5
 
 ## 로드 맵
 
