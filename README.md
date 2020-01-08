@@ -78,3 +78,30 @@
 - Jupyter-notebook 설치 및 실습
 
 ### DAY 3.
+
+회고 날 : 수요일
+
+다음 시간 까지는 Tensorflow 코딩 예제를 6~7개 정도 수행해보고 코드를 이해하는 것을 목적으로 하겠습니다. 
+
+찾아보니까 아직까지는 Tensorflow 1이 대세인 듯 하고 Tensorflow 2와 컨셉이 크게 다르지 않으니 그대로 진행해도 될것 같아요
+
+1. 강의 01. Tensorflow의 설치 및 기본적인 개념
+    1. [https://www.youtube.com/watch?v=-57Ne86Ia8w&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=3](https://www.youtube.com/watch?v=-57Ne86Ia8w&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=3)
+2. 강의 02. Tensorflow로 Linear Regression 구현하기
+    1. [https://www.youtube.com/watch?v=mQGwjrStQgg&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=5](https://www.youtube.com/watch?v=mQGwjrStQgg&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=5)
+3. 강의 03. Tensorflow로 Linear Regression cost 최소화 하기
+    1. [https://www.youtube.com/watch?v=Y0EF9VqRuEA&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=7](https://www.youtube.com/watch?v=Y0EF9VqRuEA&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=7)
+4. 강의 04. Multi variable Linear Regression in tensorflow
+    1. [https://www.youtube.com/watch?v=fZUV3xjoZSM&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=9](https://www.youtube.com/watch?v=fZUV3xjoZSM&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=9)
+5. 강의 05. Tensorflow에서 파일데이터 읽어오기
+    1. [https://www.youtube.com/watch?v=o2q4QNnoShY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=10](https://www.youtube.com/watch?v=o2q4QNnoShY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=10)
+6. 강의 06. Tensorflow로 Logistic Regression 구현하기
+    1. [https://www.youtube.com/watch?v=2FeWGgnyLSw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=13](https://www.youtube.com/watch?v=2FeWGgnyLSw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=13)
+7. 강의 07. Tensorflow로 Softmax Regression 구현하기
+    1. [https://www.youtube.com/watch?v=VRnubDzIy3A&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=16](https://www.youtube.com/watch?v=VRnubDzIy3A&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=16)
+8. 강의 08. Tensorflow로 Fancy Softmax Classification 구현하기
+    1. [https://www.youtube.com/watch?v=VRnubDzIy3A&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=16](https://www.youtube.com/watch?v=VRnubDzIy3A&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=16)
+9. 강의 09. Neural Net for XOR
+    1. [https://www.youtube.com/watch?v=oFGHOsAYiz0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=28](https://www.youtube.com/watch?v=oFGHOsAYiz0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=28)
+10. 강의 10. Tensorboard 툴 소개
+    1. [https://www.youtube.com/watch?v=lmrWZPFYjHM&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=29](https://www.youtube.com/watch?v=lmrWZPFYjHM&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=29)
