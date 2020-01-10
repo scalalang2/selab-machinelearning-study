@@ -105,3 +105,30 @@
     1. [https://www.youtube.com/watch?v=oFGHOsAYiz0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=28](https://www.youtube.com/watch?v=oFGHOsAYiz0&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=28)
 10. 강의 10. Tensorboard 툴 소개
     1. [https://www.youtube.com/watch?v=lmrWZPFYjHM&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=29](https://www.youtube.com/watch?v=lmrWZPFYjHM&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=29)
+    
+### DAY 4.
+
+회고날 : 금요일
+
+이 번에는 CNN 도입부 까지 학습하는 것을 목표로 합니다.
+
+1. 강의 01. Sigmoid보다 ReLU가 더 좋아
+    1. [https://www.youtube.com/watch?v=cKtg_fpw88c&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=30](https://www.youtube.com/watch?v=cKtg_fpw88c&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=30)
+2. 강의 02. Weight 초기화를 잘 해보자
+    1. [https://www.youtube.com/watch?v=4rC0sWrp3Uw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=31](https://www.youtube.com/watch?v=4rC0sWrp3Uw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=31)
+3. 강의 03. Dropout과 앙상블
+    1. [https://www.youtube.com/watch?v=wTxMsp22llc&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=32](https://www.youtube.com/watch?v=wTxMsp22llc&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=32)
+4. 강의 04. Convnet의 Conv 레이어 만들기
+    1. [https://www.youtube.com/watch?v=Em63mknbtWo&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=35](https://www.youtube.com/watch?v=Em63mknbtWo&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=35)
+5. 강의 05. ConvNet Max Pooling과 Full Connected Network
+    1. [https://www.youtube.com/watch?v=2-75C-yZaoA&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=36](https://www.youtube.com/watch?v=2-75C-yZaoA&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=36)
+6. 강의 06. ConvNet 활용 예
+    1. [https://www.youtube.com/watch?v=KbNbWTnlYXs&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=37](https://www.youtube.com/watch?v=KbNbWTnlYXs&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=37)
+7. 강의 07. Tensorflow: CNN Basics
+    1. [https://www.youtube.com/watch?v=E9Xh_fc9KnQ&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=38](https://www.youtube.com/watch?v=E9Xh_fc9KnQ&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=38)
+8. 강의 08. CNN MNIST 99%
+    1. [https://www.youtube.com/watch?v=pQ9Y9ZagZBk&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=39](https://www.youtube.com/watch?v=pQ9Y9ZagZBk&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=39)
+9. 강의 09. CNN Class, Layer, Dropout
+    1. [https://www.youtube.com/watch?v=c62uTWdhhMw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=40](https://www.youtube.com/watch?v=c62uTWdhhMw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=40)
+10. 강의 10. (Optional) NN, Dropout, Adam, ReLU and etc.
+    1. [https://www.youtube.com/watch?v=6CCXyfvubvY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=34](https://www.youtube.com/watch?v=6CCXyfvubvY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=34)
