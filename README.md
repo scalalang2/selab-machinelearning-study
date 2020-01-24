@@ -132,3 +132,8 @@
     1. [https://www.youtube.com/watch?v=c62uTWdhhMw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=40](https://www.youtube.com/watch?v=c62uTWdhhMw&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=40)
 10. 강의 10. (Optional) NN, Dropout, Adam, ReLU and etc.
     1. [https://www.youtube.com/watch?v=6CCXyfvubvY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=34](https://www.youtube.com/watch?v=6CCXyfvubvY&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=34)
+
+### DAY 5.
+범위 : 남은 영상 전부 = RNN 및 LSTM
+
+
