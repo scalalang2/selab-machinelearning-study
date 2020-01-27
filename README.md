@@ -137,3 +137,7 @@
 범위 : 남은 영상 전부 = RNN 및 LSTM
 
 
+
+# 학습자료
+* [Clova AI 팀의 Pytorch 예제](https://github.com/yunjey/pytorch-tutorial)
+
